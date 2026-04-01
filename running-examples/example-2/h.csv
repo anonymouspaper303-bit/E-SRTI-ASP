@@ -1,0 +1,7 @@
+Username,Gender ,Department,SleepHabits,Cleanliness,Are you a smoker?,Are you comfortable with a roommate that is a smoker?,RoomEnvironment,StudyHabits,ImportanceSleepHabits,ImportanceCleanliness,ImportanceSmokingHabits,ImportanceRoomEnvironment,ImportanceStudyHabits
+1,Male,CS,Before Midnight,I prefer to live in a clean place.,Yes,Yes,A combination of social and quiet,Both inside and outside of my room,4,5,1,5,4
+2,Male,CS,Before Midnight,I prefer to live in a clean place.,No,No,A combination of social and quiet,In my room,3,4,4,3,2
+3,Male,CS,After Midnight,I prefer to live in a clean place.,No,No,A combination of social and quiet,Both inside and outside of my room,5,5,5,5,5
+4,Male,MATH,Before Midnight,I prefer to live in a clean place.,Yes,Yes,A combination of social and quiet,Both inside and outside of my room,3,5,5,3,2
+5,Male,CS,Before Midnight,I prefer to live in a clean place.,No,No,A combination of social and quiet,Both inside and outside of my room,1,1,1,1,1
+6,Male,MATH,After Midnight,I prefer to live in a clean place.,No,No,A combination of social and quiet,In my room,1,1,3,1,3
